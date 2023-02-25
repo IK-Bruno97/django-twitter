@@ -6,6 +6,6 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App className="bg-gray-600" />
+    <App />
   </React.StrictMode>
 );
